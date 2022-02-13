@@ -130,6 +130,8 @@ def main():
         # include extra phrases in if statement if OCR is inconsistent
         if 'Fishing Bobber splashes' in text or ('Bobber' in text and 'splashes' in text):
             output = "caught-a-fish-" + str(time.time()) + ".png"
+            print('Caught one!')
+            print('Casting!')
             img.save(output)
             mouse.click('right')
             time.sleep(0.5)
