@@ -1,4 +1,4 @@
-# The crooked hook MC Auto-fisher OCR 🪝 
+# The crooked hook MC Auto-fisher OCR 🐟 
 
 ## Usage & Installation
 
