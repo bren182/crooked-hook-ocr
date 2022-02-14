@@ -1,10 +1,14 @@
 # The crooked hook MC Auto-fisher OCR 🪝
 
-## Usage
+## Usage & Installation
+
+Run `pip install -r requirements.text`. 
 
 This application was tested using `python 3.9.6`. The application depends on the Minecraft narrator being enabled. For enabling Minecraft Narrator, please see following link: https://ipoki.com/how-to-turn-off-narrator-in-minecraft/
 
-This app also requires tesseract-ocr to be installed on the system. Download to .exe for 64 bit here: eetesseract is not installed or it's not in your PATH. See README file for more information https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.1.20220118.exe
+This app also requires tesseract-ocr to be installed on the system. Download to .exe for 64 bit here: eetesseract is not installed or it's not in your PATH. See README file for more information https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.1.20220118.exe . 
+
+Also make sure that the Tesseract-OCR folder is in your System Environment Variables `PATH`. 
 
 - 1 Download crooked-hook.py into a new folder.
 - 2 Open command prompt or Windows Powershell as admin and `cd` to folder where crooked-hook.py is located.
