@@ -25,8 +25,8 @@ Currently only works with minimized window and 1900x1080 screen resolution. Reso
 
 ## To-do
 
-[ ] Add optional launch flags for saving images of captures and xp progress
-[ ] Add folder structures for saved images
-[ ] Revise alt-tab + focusing on minecraft window approach
-[ ] Implement settings for full-screen + custom window sizes
-[ ] Clearer instructions for setting up Minecraft to run app (enable narrator, window size, etc). 
+- [ ] Add optional launch flags for saving images of captures and xp progress
+- [ ] Add folder structures for saved images
+- [ ] Revise alt-tab + focusing on minecraft window approach
+- [ ] Implement settings for full-screen + custom window sizes
+- [ ] Clearer instructions for setting up Minecraft to run app (enable narrator, window size, etc). 
