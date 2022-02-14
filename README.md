@@ -10,11 +10,11 @@ This app also requires tesseract-ocr to be installed on the system. Download to 
 
 Also make sure that the Tesseract-OCR folder is in your System Environment Variables `PATH`. 
 
-- 1 Download crooked-hook.py into a new folder.
-- 2 Open command prompt or Windows Powershell as admin and `cd` to folder where crooked-hook.py is located.
-- 3 Open minecraft and log into a world.
-- 4 NB: Minimize minecraft by opening Inventory.
-- 5 Run the following command `python crooked-hook.py` in the command prompt/powershell window
+1. Download crooked-hook.py into a new folder.
+2. Open command prompt or Windows Powershell as admin and `cd` to folder where crooked-hook.py is located.
+3. Open minecraft and log into a world.
+4. NB: Minimize minecraft by opening Inventory.
+5. Run the following command `python crooked-hook.py` in the command prompt/powershell window
 
 (The script will run and do the following:
 
@@ -22,8 +22,8 @@ Also make sure that the Tesseract-OCR folder is in your System Environment Varia
 - press E to close the inventory screen automatically,
 - and begin monitoring for fishing.)
 
-- 7 When able, in Minecraft, walk to your nearest pond and cast a line.
-- 8 Sit back, relax, profit.
+7. When able, in Minecraft, walk to your nearest pond and cast a line.
+8. Sit back, relax, profit.
 
 ## Known issues
 
