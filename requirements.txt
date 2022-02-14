@@ -4,3 +4,4 @@ pytesseract
 numpy
 pyscreenshot
 mouse
+pypiwin32
