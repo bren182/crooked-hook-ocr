@@ -1,0 +1,6 @@
+Pillow
+pyautogui
+pytesseract
+numpy
+pyscreenshot
+mouse
